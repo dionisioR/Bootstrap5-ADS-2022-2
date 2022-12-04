@@ -1,0 +1,61 @@
+.bg-pink {
+    background-color: rgb(45, 3, 52);
+}
+
+.bg-black {
+    background-color: rgb(170, 3, 3) !important;
+}
+
+.bg-pink a,
+.bg-black a {
+    color: aliceblue;
+}
+nav{
+    border-bottom: 1px solid red;
+}
+.bg-dark2{
+    background-color: rgb(36, 33, 33);
+}
+header {
+    height: 80vh;
+    /* background-image: url(../img/pexels-andy-vu-3244513.jpg); */
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* align-items: center; */
+}
+
+.bg-gray{
+    background-color: gray;
+}
+.centro{
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.h1 {
+    font-size: 6em;
+    text-shadow: 1px 1px 3px #000;
+    line-height: 25px;
+}
+
+.bg-gray {
+    background-color: gray;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.bg-dark-gray {
+    background-color: rgb(63, 61, 61);
+}
